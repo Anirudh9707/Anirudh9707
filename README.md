@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh9707&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh9707" /> </p>
 <h3 align="center">Full stack developer</h3>
 
 - 🌱 I’m currently learning **React and Django**
