@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">Full stack developer</h3>
 
 - 🌱 I’m currently learning **React and Django**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
